@@ -2,4 +2,5 @@
 .pytest_cache
 _pycache_
 report
-.DS_Store
+allure-result
+allure-report
